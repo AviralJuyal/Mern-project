@@ -1,7 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { Resizable } from "re-resizable";
 import ResizableComponent from "../components/ResizableComponent";
-import FirstComp from "../components/Welcome";
 import Welcome from "../components/Welcome";
 import Form from "../components/Form";
 import Card from "../components/Card";
