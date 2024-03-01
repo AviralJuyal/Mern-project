@@ -26,3 +26,4 @@ app.use("/api/notes", require("./src/routes/notesRoutes"));
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+module.exports = app;
